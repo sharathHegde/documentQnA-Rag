@@ -1,8 +1,11 @@
 python-dotenv
-azure-search-documents=11.6.0b7
+azure-search-documents==11.6.0b7
 azure-identity
 azure-core
 openai
 prompty[azure]
 prompty[tracer]
 promptflow-azure
+# Web application
+streamlit==1.40.1
+streamlit-chat==0.1.1
